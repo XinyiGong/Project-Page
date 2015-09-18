@@ -1,11 +1,11 @@
+---
+layout:     	post
+title:      	Post Headline
+date:       	2015-01-01 12:00
+author:     	Materials Innovation
+tags:         result
+---
 
----
-layout:     post
-title:      Post Headline
-date:      2015-09-18 13:37
-author:     Xinyi Gong
-tags: 		result
----
 <section markdown="1" data-background="http://ahmetcecen.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
 
