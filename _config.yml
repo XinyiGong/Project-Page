@@ -4,7 +4,7 @@ title: Project Pages
 header-img: img/home-bg.jpg
 email: xgonggt@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/project-page"
+baseurl: "XinyiGong/project-page"
 url: "http://XinyiGong.github.io"
 github_username: XinyiGong
 project_repository: project-page
