@@ -8,7 +8,7 @@ baseurl: "/Project-Page"
 url: "http://XinyiGong.github.io"
 github_username: XinyiGong
 project_repository: Project-Page
-disqus_shortname: project-page
+disqus_shortname: Project-Page
 
 # Build settings
 # Don't change these variables
