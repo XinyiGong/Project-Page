@@ -1,30 +1,10 @@
-----------
 
-layout:     MATIN Workshop
+---
+layout:     post
 title:      Post Headline
 date:      2015-09-18 13:37
 author:     Xinyi Gong
 tags: 		result
----
-Hello world
-<!-- Start Writing Below in Markdown -->---
-layout:     	post
-title:      	Post Headline
-date:       	2015-01-01 12:00
-author:     	Materials Innovation
-tags:         result
----
----
-layout:     	slide
-title:     	Presentation Headline
-date:      	2015-06-23 03:00
-author:     	Materials Innovation
-
-theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
-trans:		default # default/cube/page/concave/zoom/linear/fade/none
-
-horizontal:	</section></section><section markdown="1" data-background="http://ahmetcecen.github.io/project-pages/img/slidebackground.png"><section markdown="1">
-vertical:		</section><section markdown="1">
 ---
 <section markdown="1" data-background="http://ahmetcecen.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
